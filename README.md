@@ -1,2 +1,4 @@
-# simple-wallet-system
-A simple wallet weapon for DarkRP.
+## Simple Job Selector
+Just a simple entity for selecting your jobs in DarkRP.
+
+![Screenshot](wallet.png)
